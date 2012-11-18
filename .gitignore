@@ -1,0 +1,10 @@
+*.zip
+*.jar
+*.config
+*.xml
+*.properties
+*.cfg
+
+# Package Files #
+*.zip
+
