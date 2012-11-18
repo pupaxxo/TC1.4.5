@@ -1,0 +1,240 @@
+# Configuration file
+# Generated on 18/11/12 14.27
+
+####################
+# block 
+####################
+
+block {
+   block.bookstand.id=2600
+   block.crystal.id=2601
+   block.lectern.id=3618
+   block.linkmodifier.id=2602
+   block.linkportal.id=2603
+   block.receptacle.id=2604
+   block.starfissure.id=2605
+   block.unstable.id=2606
+   block.writingdesk.id=2607
+}
+
+####################
+# debug 
+####################
+
+debug {
+   instability.maximum.blindness=
+   instability.maximum.confusion=
+   instability.maximum.crumble=
+   instability.maximum.decayBlack=
+   instability.maximum.decayBlue=
+   instability.maximum.decayGreen=
+   instability.maximum.decayPurple=
+   instability.maximum.decayRed=
+   instability.maximum.enemyregen=
+   instability.maximum.erosion=
+   instability.maximum.explosion=
+   instability.maximum.fatigue=
+   instability.maximum.hunger=
+   instability.maximum.lightning=
+   instability.maximum.meteors=
+   instability.maximum.poison=
+   instability.maximum.scorched=
+   instability.maximum.slow=
+   instability.maximum.volcano=
+   instability.maximum.weakness=
+   instability.minimum.blindness=375
+   instability.minimum.confusion=75
+   instability.minimum.crumble=500
+   instability.minimum.decayBlack=700
+   instability.minimum.decayBlue=400
+   instability.minimum.decayGreen=400
+   instability.minimum.decayPurple=400
+   instability.minimum.decayRed=400
+   instability.minimum.enemyregen=
+   instability.minimum.erosion=300
+   instability.minimum.explosion=300
+   instability.minimum.fatigue=
+   instability.minimum.hunger=150
+   instability.minimum.lightning=
+   instability.minimum.meteors=525
+   instability.minimum.poison=150
+   instability.minimum.scorched=225
+   instability.minimum.slow=
+   instability.minimum.volcano=375
+   instability.minimum.weakness=
+   instability.stability.blindness=250
+   instability.stability.confusion=75
+   instability.stability.crumble=250
+   instability.stability.decayBlack=500
+   instability.stability.decayBlue=300
+   instability.stability.decayGreen=300
+   instability.stability.decayPurple=300
+   instability.stability.decayRed=300
+   instability.stability.erosion=100
+   instability.stability.explosion=100
+   instability.stability.fatigue=125
+   instability.stability.hunger=150
+   instability.stability.lightning=75
+   instability.stability.meteors=375
+   instability.stability.poison=150
+   instability.stability.scorched=150
+   instability.stability.slow=75
+   instability.stability.volcano=225
+   instability.stability.weakness=75
+}
+
+####################
+# entity 
+####################
+
+entity {
+   entity.book.id=2608
+   entity.falling.id=2609
+   entity.meteor.id=217
+}
+
+####################
+# general 
+####################
+
+general {
+   options.crafting.enableAgebook=true
+   options.crafting.enableBookstand=true
+   options.crafting.enableDesk=true
+   options.crafting.enableLectern=true
+   options.crafting.enableLinkModifier=true
+   options.crafting.enableLinkbook=true
+   options.crafting.enableNotebook=true
+   options.crafting.enableReceptacle=true
+   options.crafting.enableStand=true
+   options.decay=false
+   options.difficultyoverride=
+   options.instability=false
+   options.instability.blackdecay=false
+   options.platform.blockid=1
+   options.providerId=9
+   options.renderlabels=true
+}
+
+####################
+# instability 
+####################
+
+instability {
+   blindness.enabled=true
+   confusion.enabled=true
+   crumble.enabled=true
+   decayblack.enabled=true
+   decayblue.enabled=true
+   decaypurple.enabled=true
+   decayred.enabled=true
+   decaywhite.enabled=true
+   enemyregeneration.enabled=true
+   erosion.enabled=true
+   explosion.enabled=true
+   fatigue.enabled=true
+   hunger.enabled=true
+   lightning.enabled=true
+   meteors.enabled=true
+   poisonedsurface.enabled=true
+   scorched.enabled=true
+   slow.enabled=true
+   weakness.enabled=true
+}
+
+####################
+# item 
+####################
+
+item {
+   item.agebook.id=2500
+   item.linkbook.id=2501
+   item.notebook.id=2502
+   item.writingdesk.id=2503
+}
+
+####################
+# symbol 
+####################
+
+symbol {
+   bioconhuge.enabled=true
+   bioconlarge.enabled=true
+   bioconmedium.enabled=true
+   bioconsmall.enabled=true
+   biocontiny.enabled=true
+   biomecontrollernative.enabled=true
+   caves.enabled=true
+   checkerboard_biomes.enabled=true
+   cloudblack.enabled=true
+   cloudblue.enabled=true
+   cloudchromatic.enabled=true
+   cloudgreen.enabled=true
+   cloudred.enabled=true
+   cloudwhite.enabled=true
+   cryformcry.enabled=true
+   cryformglow.enabled=true
+   day.enabled=true
+   denseores.enabled=true
+   dungeons.enabled=true
+   dusk.enabled=true
+   envaccel.enabled=true
+   envexplosions.enabled=true
+   envlightning.enabled=true
+   envmeteor.enabled=true
+   envscorch.enabled=true
+   flat.enabled=true
+   fogblack.enabled=true
+   fogblue.enabled=true
+   fogchromatic.enabled=true
+   foggreen.enabled=true
+   fognormal.enabled=true
+   fogred.enabled=true
+   fogwhite.enabled=true
+   ftime.enabled=true
+   heavy_resources.enabled=true
+   huge_trees.enabled=true
+   lakes.enabled=true
+   lava_lakes.enabled=true
+   lightingbright.enabled=true
+   lightingdark.enabled=true
+   mineshafts.enabled=true
+   night.enabled=true
+   ntime.enabled=true
+   obelisks.enabled=true
+   rain.enabled=true
+   ravines.enabled=true
+   single_biome.enabled=true
+   skyblack.enabled=true
+   skyblue.enabled=true
+   skychromatic.enabled=true
+   skygreen.enabled=true
+   skylands.enabled=true
+   skynormal.enabled=true
+   skyred.enabled=true
+   skywhite.enabled=true
+   snow.enabled=true
+   standard_lighting.enabled=true
+   standard_terrain.enabled=true
+   star_fissure.enabled=true
+   stime.enabled=true
+   storm.enabled=true
+   strongholds.enabled=true
+   sunsetblack.enabled=true
+   sunsetblue.enabled=true
+   sunsetchromatic.enabled=true
+   sunsetgreen.enabled=true
+   sunsetred.enabled=true
+   sunsetwhite.enabled=true
+   terrainnether.enabled=true
+   villages.enabled=true
+   void.enabled=true
+   weathercloudy.enabled=true
+   weatherfast.enabled=true
+   weathernorm.enabled=true
+   weatheron.enabled=true
+   weatherslow.enabled=true
+   weathersun.enabled=true
+   woodcaves.enabled=true
+}
+
