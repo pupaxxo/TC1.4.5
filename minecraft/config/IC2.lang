@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 18/11/12 11.25
+# Generated on 23/11/12 18.25
 
 ####################
 # block 
@@ -296,6 +296,7 @@ general {
    itemSplitterCable.name=EU-Splitter Cable
    itemTinCable.name=Ultra-Low-Current Cable
    overclockerUpgrade.name=Overclocker Upgrade
+   potion.radiation=Radiation
    tile.blockAlloy.name=Reinforced Stone
    tile.blockAlloyGlass.name=Reinforced Glass
    tile.blockCrop.name=Crop

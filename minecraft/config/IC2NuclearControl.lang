@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 18/11/12 11.25
+# Generated on 23/11/12 18.25
 
 ####################
 # block 
@@ -27,6 +27,7 @@ item {
 ####################
 
 locale.en.us {
+   item.ItemColorUpgrade.name=Color Upgrade
    item.ItemCounterSensorKit.name=Counter Sensor Kit
    item.ItemCounterSensorLocationCard.name=Counter Sensor Location Card
    item.ItemEnergyArrayLocationCard.name=Energy Array Location Card
@@ -44,6 +45,7 @@ locale.en.us {
    msg.nc.HowlerAlarmSound=Sound
    msg.nc.HowlerAlarmSoundRange=Sound range: %s
    msg.nc.InfoPanelEnergy=Energy: %s
+   msg.nc.InfoPanelEnergyCounter=Energy: %sEU
    msg.nc.InfoPanelEnergyFree=Free: %s
    msg.nc.InfoPanelEnergyFreeN=#%d Free: %s
    msg.nc.InfoPanelEnergyN=#%d Energy: %s
@@ -63,7 +65,9 @@ locale.en.us {
    msg.nc.InfoPanelTime=Time: %s
    msg.nc.InfoPanelTimeRemaining=Remaining: %s
    msg.nc.Reset=Reset
+   msg.nc.ScreenColor=Screen Color
    msg.nc.SensorKit=Remote Sensor mounted, Sensor Location Card received
+   msg.nc.TextColor=Text Color
    msg.nc.ThermalMonitorSave=Save setting
    msg.nc.ThermalMonitorSignalAt=Signal at %s heat
    msg.nc.Thermo=Hull heat: %s
