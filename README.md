@@ -1,9 +1,64 @@
-TC1.4.5
-=======
-
 TecnicamenteSMP 1.4.5
-
-NEWS
-====
-
-we are working on a new version of Tecnicamente SMP for 1.4.5 
+==============
+<img src="http://pupax.altervista.org/images/logo.png">
+MODPACK TecnicamenteSMP 1.4.5
+<hr>
+<h2>MODS:</h2>
+<ul>
+<li>
+AdvancedSolarPanel</li>
+<li>
+FancyFences</li>
+<li>
+Optifine</li>
+<li>RotationKey</li>
+<li>UsefulStorage</li>
+<li>ReiMinimap</li>
+<li>MinecraftForge</li>
+<li>CodeChickenCore</li>
+<li>HDSAC</li>
+<li>NotEnoughItems</li>
+<li>denLib</li>
+<li>FornitureMod</li>
+<li>AdditionalPipe</li>
+<li>AdvancedPowerManager</li>
+<li>AdvancedMachine</li>
+<li>BackTools</li>
+<li>BasicComponents</li>
+<li>Buildcraft</li>
+<li>BuildcraftValvePipe</li>
+<li>ComputerCraft</li>
+<li>EnderStorage</li>
+<li>ExtraBiomesXL</li>
+<li>Factorizazion</li>
+<li>GravityGun</li>
+<li>IC2NuclearControl</li>
+<li>ICBM</li>
+<li>InGameinfoXML</li>
+<li>InvTweaks</li>
+<li>MFFS</li>
+<li>MorePipes</li>
+<li>Pam's Mod</li>
+<li>Railcraft</li>
+<li>StevesCarts</li>
+<li>ThermalExpansion</li>
+<li>WR-CBE</li>
+<li>Treecapitator</li>
+<li>Treecapitator addon EBXL</li>
+<li>LoginMessage</li>
+<li>BuildCraftABO</li>
+<li>ChargePads</li>
+<li>Forestry</li>
+<li>Immibis-core</li>
+<li>Immibis-peripherals</li>
+<li>IndustrialCraft2</li>
+<li>IronChest</li>
+<li>LogisitcsPipe</li>
+<li>Mystcraft</li>
+<li>portalgun</li>
+<li>tubestuff</li>
+<li>twilightforest</li>
+<li>xycraft</li>
+<li>zdimensional anchor</li>
+</ul>
+<hr>
