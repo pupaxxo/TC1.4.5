@@ -11,6 +11,8 @@ AdvancedSolarPanel</li>
 FancyFences</li>
 <li>
 Optifine</li>
+<li>CoroAI</li>
+<li>Weather</li>
 <li>RotationKey</li>
 <li>UsefulStorage</li>
 <li>ReiMinimap</li>
@@ -60,5 +62,9 @@ Optifine</li>
 <li>twilightforest</li>
 <li>xycraft</li>
 <li>zdimensional anchor</li>
+<li>NEI plugins</li>
+<li>RedPower(in the future)</li>
+<li>Thaumcraft(in the future)</li>
+<li>Equivalent Exchange 3 (in the future)</li>
 </ul>
 <hr>
