@@ -65,6 +65,7 @@ Optifine</li>
 <li>NEI plugins</li>
 <li>RedPower(in the future)</li>
 <li>Thaumcraft(in the future)</li>
-<li>Equivalent Exchange 3 (in the future)</li>
+<li>Equivalent Exchange 3</li>
+<li>TransformerMod</li>
 </ul>
 <hr>
