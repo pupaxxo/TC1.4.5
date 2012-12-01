@@ -1,97 +1,91 @@
 # Configuration file
-# Generated on 24/11/12 11.21
+# Generated on 01/12/12 20.43
 
 ####################
-# block 
+# locale
 ####################
 
-block {
+locale {
+    ####################
+    # en
+    ####################
+
+    en {
+        ####################
+        # us
+        ####################
+
+        us {
+            S:item.ItemColorUpgrade.name=Color Upgrade
+            S:item.ItemCounterSensorKit.name=Counter Sensor Kit
+            S:item.ItemCounterSensorLocationCard.name=Counter Sensor Location Card
+            S:item.ItemEnergyArrayLocationCard.name=Energy Array Location Card
+            S:item.ItemEnergySensorKit.name=Energy Sensor Kit
+            S:item.ItemEnergySensorLocationCard.name=Energy Sensor Location Card
+            S:item.ItemRangeUpgrade.name=Range Upgrade
+            S:item.ItemRemoteSensorKit.name=Remote Sensor Kit
+            S:item.ItemSensorLocationCard.name=Reactor Sensor Location Card
+            S:item.ItemTextCard.name=Text Card
+            S:item.ItemTimeCard.name=Time Card
+            S:item.ItemToolDigitalThermometer.name=Digital Thermometer
+            S:item.ItemToolThermometer.name=Thermometer
+            S:msg.nc.AverageCounterPeriod=Period: %ssec
+            S:msg.nc.EnergyCardQuantity=Cards quantity: %d
+            S:msg.nc.HowlerAlarmSound=Sound
+            S:msg.nc.HowlerAlarmSoundRange=Sound range: %s
+            S:msg.nc.InfoPanelEnergy=Energy: %s
+            S:msg.nc.InfoPanelEnergyCounter=Energy: %sEU
+            S:msg.nc.InfoPanelEnergyFree=Free: %s
+            S:msg.nc.InfoPanelEnergyFreeN=#%d Free: %s
+            S:msg.nc.InfoPanelEnergyN=#%d Energy: %s
+            S:msg.nc.InfoPanelEnergyPercentage=Fill: %s%%
+            S:msg.nc.InfoPanelEnergyPercentageN=#%d Fill: %s%%
+            S:msg.nc.InfoPanelEnergyStorage=Storage: %s
+            S:msg.nc.InfoPanelEnergyStorageN=#%d Storage: %s
+            S:msg.nc.InfoPanelHeat=T: %s
+            S:msg.nc.InfoPanelInvalidCard=Invalid Card
+            S:msg.nc.InfoPanelMaxHeat=MaxHeat: %s
+            S:msg.nc.InfoPanelMelting=Melting: %s
+            S:msg.nc.InfoPanelNoTarget=Target Not Found
+            S:msg.nc.InfoPanelOff=Off
+            S:msg.nc.InfoPanelOn=On
+            S:msg.nc.InfoPanelOutOfRange=Out Of Range
+            S:msg.nc.InfoPanelOutput=Output: %sEU/t
+            S:msg.nc.InfoPanelTime=Time: %s
+            S:msg.nc.InfoPanelTimeRemaining=Remaining: %s
+            S:msg.nc.Reset=Reset
+            S:msg.nc.ScreenColor=Screen Color
+            S:msg.nc.SensorKit=Remote Sensor mounted, Sensor Location Card received
+            S:msg.nc.TextColor=Text Color
+            S:msg.nc.ThermalMonitorSave=Save setting
+            S:msg.nc.ThermalMonitorSignalAt=Signal at %s heat
+            S:msg.nc.Thermo=Hull heat: %s
+            S:msg.nc.ThermoDigital=Hull heat: %s (Water evaporate: %s / melting: %s)
+            S:msg.nc.cbInfoPanelEnergyCurrent=Energy
+            S:msg.nc.cbInfoPanelEnergyEach=Each card info
+            S:msg.nc.cbInfoPanelEnergyFree=Free
+            S:msg.nc.cbInfoPanelEnergyPercentage=Fill percentage
+            S:msg.nc.cbInfoPanelEnergyStorage=Storage
+            S:msg.nc.cbInfoPanelEnergyTotal=Summary
+            S:msg.nc.cbInfoPanelHeat=Heat level
+            S:msg.nc.cbInfoPanelMaxHeat=Max heat
+            S:msg.nc.cbInfoPanelMelting=Melting temp
+            S:msg.nc.cbInfoPanelOnOff=On/Off status
+            S:msg.nc.cbInfoPanelOutput=Output (EU/t)
+            S:msg.nc.cbInfoPanelTimeRemaining=Time to cycle end
+            S:tile.blockAverageCounter.name=Average Counter
+            S:tile.blockEnergyCounter.name=Energy Counter
+            S:tile.blockHowlerAlarm.name=Howler Alarm
+            S:tile.blockIndustrialAlarm.name=Industrial Alarm
+            S:tile.blockInfoPanel.name=Industrial Information Panel
+            S:tile.blockInfoPanelExtender.name=Information Panel Extender
+            S:tile.blockRangeTrigger.name=Range Trigger
+            S:tile.blockRemoteThermo.name=Remote Thermal Monitor
+            S:tile.blockThermalMonitor.name=Thermal Monitor
+        }
+
+    }
+
 }
 
-####################
-# general 
-####################
-
-general {
-}
-
-####################
-# item 
-####################
-
-item {
-}
-
-####################
-# locale.en.us 
-####################
-
-locale.en.us {
-   item.ItemColorUpgrade.name=Color Upgrade
-   item.ItemCounterSensorKit.name=Counter Sensor Kit
-   item.ItemCounterSensorLocationCard.name=Counter Sensor Location Card
-   item.ItemEnergyArrayLocationCard.name=Energy Array Location Card
-   item.ItemEnergySensorKit.name=Energy Sensor Kit
-   item.ItemEnergySensorLocationCard.name=Energy Sensor Location Card
-   item.ItemRangeUpgrade.name=Range Upgrade
-   item.ItemRemoteSensorKit.name=Remote Sensor Kit
-   item.ItemSensorLocationCard.name=Reactor Sensor Location Card
-   item.ItemTextCard.name=Text Card
-   item.ItemTimeCard.name=Time Card
-   item.ItemToolDigitalThermometer.name=Digital Thermometer
-   item.ItemToolThermometer.name=Thermometer
-   msg.nc.AverageCounterPeriod=Period: %ssec
-   msg.nc.EnergyCardQuantity=Cards quantity: %d
-   msg.nc.HowlerAlarmSound=Sound
-   msg.nc.HowlerAlarmSoundRange=Sound range: %s
-   msg.nc.InfoPanelEnergy=Energy: %s
-   msg.nc.InfoPanelEnergyCounter=Energy: %sEU
-   msg.nc.InfoPanelEnergyFree=Free: %s
-   msg.nc.InfoPanelEnergyFreeN=#%d Free: %s
-   msg.nc.InfoPanelEnergyN=#%d Energy: %s
-   msg.nc.InfoPanelEnergyPercentage=Fill: %s%%
-   msg.nc.InfoPanelEnergyPercentageN=#%d Fill: %s%%
-   msg.nc.InfoPanelEnergyStorage=Storage: %s
-   msg.nc.InfoPanelEnergyStorageN=#%d Storage: %s
-   msg.nc.InfoPanelHeat=T: %s
-   msg.nc.InfoPanelInvalidCard=Invalid Card
-   msg.nc.InfoPanelMaxHeat=MaxHeat: %s
-   msg.nc.InfoPanelMelting=Melting: %s
-   msg.nc.InfoPanelNoTarget=Target Not Found
-   msg.nc.InfoPanelOff=Off
-   msg.nc.InfoPanelOn=On
-   msg.nc.InfoPanelOutOfRange=Out Of Range
-   msg.nc.InfoPanelOutput=Output: %sEU/t
-   msg.nc.InfoPanelTime=Time: %s
-   msg.nc.InfoPanelTimeRemaining=Remaining: %s
-   msg.nc.Reset=Reset
-   msg.nc.ScreenColor=Screen Color
-   msg.nc.SensorKit=Remote Sensor mounted, Sensor Location Card received
-   msg.nc.TextColor=Text Color
-   msg.nc.ThermalMonitorSave=Save setting
-   msg.nc.ThermalMonitorSignalAt=Signal at %s heat
-   msg.nc.Thermo=Hull heat: %s
-   msg.nc.ThermoDigital=Hull heat: %s (Water evaporate: %s / melting: %s)
-   msg.nc.cbInfoPanelEnergyCurrent=Energy
-   msg.nc.cbInfoPanelEnergyEach=Each card info
-   msg.nc.cbInfoPanelEnergyFree=Free
-   msg.nc.cbInfoPanelEnergyPercentage=Fill percentage
-   msg.nc.cbInfoPanelEnergyStorage=Storage
-   msg.nc.cbInfoPanelEnergyTotal=Summary
-   msg.nc.cbInfoPanelHeat=Heat level
-   msg.nc.cbInfoPanelMaxHeat=Max heat
-   msg.nc.cbInfoPanelMelting=Melting temp
-   msg.nc.cbInfoPanelOnOff=On/Off status
-   msg.nc.cbInfoPanelOutput=Output (EU/t)
-   msg.nc.cbInfoPanelTimeRemaining=Time to cycle end
-   tile.blockAverageCounter.name=Average Counter
-   tile.blockEnergyCounter.name=Energy Counter
-   tile.blockHowlerAlarm.name=Howler Alarm
-   tile.blockIndustrialAlarm.name=Industrial Alarm
-   tile.blockInfoPanel.name=Industrial Information Panel
-   tile.blockInfoPanelExtender.name=Information Panel Extender
-   tile.blockRangeTrigger.name=Range Trigger
-   tile.blockRemoteThermo.name=Remote Thermal Monitor
-   tile.blockThermalMonitor.name=Thermal Monitor
-}
 
