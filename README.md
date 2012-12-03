@@ -5,16 +5,10 @@ MODPACK TecnicamenteSMP 1.4.5
 <hr>
 <h2>MODS:</h2>
 <ul>
-<li>
-AdvancedSolarPanel</li>
-<li>
-FancyFences</li>
-<li>
-Optifine</li>
+<li>AdvancedSolarPanel</li>
+<li>Optifine</li>
 <li>CoroAI</li>
 <li>Weather</li>
-<li>RotationKey</li>
-<li>UsefulStorage</li>
 <li>ReiMinimap</li>
 <li>MinecraftForge</li>
 <li>CodeChickenCore</li>
@@ -36,7 +30,6 @@ Optifine</li>
 <li>GravityGun</li>
 <li>IC2NuclearControl</li>
 <li>ICBM</li>
-<li>InGameinfoXML</li>
 <li>InvTweaks</li>
 <li>MFFS</li>
 <li>MorePipes</li>
@@ -64,7 +57,7 @@ Optifine</li>
 <li>zdimensional anchor</li>
 <li>NEI plugins</li>
 <li>RedPower(in the future)</li>
-<li>Thaumcraft(in the future)</li>
+<li>Thaumcraft 3</li>
 <li>Equivalent Exchange 3</li>
 <li>TransformerMod</li>
 </ul>
