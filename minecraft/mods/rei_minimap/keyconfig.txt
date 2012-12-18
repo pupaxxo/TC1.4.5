@@ -1,4 +1,4 @@
-Menu Key: M
+Menu Key: Period
 Toggle Enable: None
 Toggle Render Type: None
 Toggle Zoom: Z
@@ -8,7 +8,7 @@ Toggle Waypoints Visible: None
 Toggle Waypoints Marker: None
 Toggle Waypoints Dimension: None
 Toggle Entities Radar: None
-Set Waypoint: C
+Set Waypoint: Comma
 Waypoint List: None
 Zoom In: None
 Zoom Out: None

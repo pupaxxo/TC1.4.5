@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 01/12/12 20.43
+# Generated on 18/12/12 14.39
 
 ####################
 # general
@@ -160,6 +160,7 @@ general {
     S:item.itemCoffeeBeans.name=Coffee Beans
     S:item.itemCoffeePowder.name=Coffee Powder
     S:item.itemCoin.name=Industrial Credit
+    S:item.itemCoolant.name=Coolant
     S:item.itemCropnalyzer.name=Cropnalyzer
     S:item.itemDoorAlloy.name=Reinforced Door
     S:item.itemDustBronze.name=Bronze Dust
