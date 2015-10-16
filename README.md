@@ -1,6 +1,5 @@
 TecnicamenteSMP 1.4.5
 ==============
-<img src="http://pupax.altervista.org/images/logo.png">
 MODPACK TecnicamenteSMP 1.4.5
 <hr>
 <h2>MODS:</h2>
